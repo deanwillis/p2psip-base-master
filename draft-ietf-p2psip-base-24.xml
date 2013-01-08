@@ -871,6 +871,11 @@ Transport    |      Link       |     +-------+  +------+
           <t hangText="Transaction ID:">A randomly chosen identifier selected
           by the originator of a request and used to correlate requests and
           responses.</t>
+
+          <t></t>
+
+          <t hangText="Responsible Peer:">The peer that is responsible for a
+          specific resource or client, as defined by the plugin algorithm.</t>
         </list></t>
 
       <t>The term "maximum request lifetime" is the maximum time a request
