@@ -871,6 +871,12 @@ Transport    |      Link       |     +-------+  +------+
           <t hangText="Transaction ID:">A randomly chosen identifier selected
           by the originator of a request and used to correlate requests and
           responses.</t>
+
+          <t></t>
+
+          <t hangText="User:">A user is a physical person who owns one or more
+          nodes through the user name stored in the certificates assigned to
+          these nodes.</t>
         </list></t>
 
       <t>The term "maximum request lifetime" is the maximum time a request
